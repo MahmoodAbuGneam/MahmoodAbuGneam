@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahmoodpsgn@gmail.com**
 
-- 📄 Know about my experiences  [Portfolio]([https://portfolio-ruddy-xi-13.vercel.app/](https://portfolio-ruddy-xi-13.vercel.app/))
+- 📄 Know about my experiences [Portfolio](https://portfolio-ruddy-xi-13.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
